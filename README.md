@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/sibamsamanta7/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/sibamsamanta7/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/sibamsamanta7/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/sibamsamanta7/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/sibamsamanta7/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/sibamsamanta7/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -18,6 +19,7 @@
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/sibamsamanta7/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/sibamsamanta7/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/sibamsamanta7/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/sibamsamanta7/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/sibamsamanta7/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/sibamsamanta7/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -90,4 +92,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/sibamsamanta7/DSA/tree/main/0036-valid-sudoku/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sibamsamanta7/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
