@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/sibamsamanta7/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/sibamsamanta7/DSA/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/sibamsamanta7/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/sibamsamanta7/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/sibamsamanta7/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sibamsamanta7/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -79,4 +80,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sibamsamanta7/DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/sibamsamanta7/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
