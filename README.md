@@ -34,10 +34,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/sibamsamanta7/DSA/tree/main/0049-group-anagrams/) | Medium |
+| [1927-sum-game](https://github.com/sibamsamanta7/DSA/tree/main/1927-sum-game/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/sibamsamanta7/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1927-sum-game](https://github.com/sibamsamanta7/DSA/tree/main/1927-sum-game/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +72,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1927-sum-game](https://github.com/sibamsamanta7/DSA/tree/main/1927-sum-game/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sibamsamanta7/DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sibamsamanta7/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Binary Search
@@ -96,4 +99,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sibamsamanta7/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1927-sum-game](https://github.com/sibamsamanta7/DSA/tree/main/1927-sum-game/) | Medium |
 <!---LeetCode Topics End-->
