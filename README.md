@@ -10,6 +10,7 @@
 | [0217-contains-duplicate](https://github.com/sibamsamanta7/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/sibamsamanta7/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/sibamsamanta7/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0835-image-overlap](https://github.com/sibamsamanta7/DSA/tree/main/0835-image-overlap/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/sibamsamanta7/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1872-stone-game-viii](https://github.com/sibamsamanta7/DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sibamsamanta7/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -126,6 +127,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/sibamsamanta7/DSA/tree/main/0036-valid-sudoku/) | Medium |
+| [0835-image-overlap](https://github.com/sibamsamanta7/DSA/tree/main/0835-image-overlap/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
