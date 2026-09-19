@@ -101,6 +101,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/sibamsamanta7/DSA/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sibamsamanta7/DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sibamsamanta7/DSA/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/sibamsamanta7/DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/sibamsamanta7/DSA/tree/main/1927-sum-game/) | Medium |
@@ -205,4 +206,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/sibamsamanta7/DSA/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sibamsamanta7/DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 <!---LeetCode Topics End-->
