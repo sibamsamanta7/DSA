@@ -22,6 +22,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sibamsamanta7/DSA/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/sibamsamanta7/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/sibamsamanta7/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/sibamsamanta7/DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sibamsamanta7/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/sibamsamanta7/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sibamsamanta7/DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -110,6 +111,7 @@
 | [1927-sum-game](https://github.com/sibamsamanta7/DSA/tree/main/1927-sum-game/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sibamsamanta7/DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/sibamsamanta7/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/sibamsamanta7/DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sibamsamanta7/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/sibamsamanta7/DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/sibamsamanta7/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -212,4 +214,8 @@
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/sibamsamanta7/DSA/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sibamsamanta7/DSA/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/sibamsamanta7/DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 <!---LeetCode Topics End-->
