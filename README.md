@@ -24,6 +24,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/sibamsamanta7/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/sibamsamanta7/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/sibamsamanta7/DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sibamsamanta7/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sibamsamanta7/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/sibamsamanta7/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sibamsamanta7/DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -114,6 +115,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sibamsamanta7/DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/sibamsamanta7/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/sibamsamanta7/DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sibamsamanta7/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sibamsamanta7/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/sibamsamanta7/DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/sibamsamanta7/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
