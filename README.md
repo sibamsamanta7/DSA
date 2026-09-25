@@ -38,6 +38,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/sibamsamanta7/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/sibamsamanta7/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/sibamsamanta7/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/sibamsamanta7/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/sibamsamanta7/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sibamsamanta7/DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sibamsamanta7/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -51,6 +52,7 @@
 | [0049-group-anagrams](https://github.com/sibamsamanta7/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/sibamsamanta7/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/sibamsamanta7/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/sibamsamanta7/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sibamsamanta7/DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sibamsamanta7/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## String
@@ -59,6 +61,7 @@
 | [0049-group-anagrams](https://github.com/sibamsamanta7/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0115-distinct-subsequences](https://github.com/sibamsamanta7/DSA/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/sibamsamanta7/DSA/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/sibamsamanta7/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1927-sum-game](https://github.com/sibamsamanta7/DSA/tree/main/1927-sum-game/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sibamsamanta7/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sibamsamanta7/DSA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -225,4 +228,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/sibamsamanta7/DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/sibamsamanta7/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/sibamsamanta7/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/sibamsamanta7/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 <!---LeetCode Topics End-->
