@@ -19,6 +19,7 @@
 | [1872-stone-game-viii](https://github.com/sibamsamanta7/DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sibamsamanta7/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sibamsamanta7/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sibamsamanta7/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sibamsamanta7/DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sibamsamanta7/DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sibamsamanta7/DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -57,6 +58,7 @@
 | [0217-contains-duplicate](https://github.com/sibamsamanta7/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/sibamsamanta7/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/sibamsamanta7/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sibamsamanta7/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sibamsamanta7/DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sibamsamanta7/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## String
@@ -94,6 +96,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sibamsamanta7/DSA/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1927-sum-game](https://github.com/sibamsamanta7/DSA/tree/main/1927-sum-game/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sibamsamanta7/DSA/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sibamsamanta7/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sibamsamanta7/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sibamsamanta7/DSA/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Bit Manipulation
@@ -114,6 +117,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sibamsamanta7/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sibamsamanta7/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +154,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sibamsamanta7/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sibamsamanta7/DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sibamsamanta7/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sibamsamanta7/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sibamsamanta7/DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sibamsamanta7/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Combinatorics
