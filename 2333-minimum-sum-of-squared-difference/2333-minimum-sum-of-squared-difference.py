@@ -1,53 +1,49 @@
+from collections import Counter
+from typing import List
+
+
 class Solution:
-    def minSumSquareDiff(
-        self, nums1: List[int], nums2: List[int], k1: int, k2: int
-    ) -> int:
-        # Calculate absolute differences between corresponding elements
-        differences = [abs(a - b) for a, b in zip(nums1, nums2)]
+    def minSumSquareDiff(self, nums1: List[int], nums2: List[int], k1: int, k2: int) -> int:
+        diffs = [abs(a - b) for a, b in zip(nums1, nums2)]
+        budget = k1 + k2
 
-        # Total operations available (both k1 and k2 can be used interchangeably)
-        total_operations = k1 + k2
-
-        # If we have enough operations to reduce all differences to zero
-        if sum(differences) <= total_operations:
+        # Edge case: enough budget to zero out every diff
+        if sum(diffs) <= budget:
             return 0
 
-        max_diff = max(differences)
+        # Group diffs by value, sorted by height descending
+        # e.g. [9, 9, 7, 5, 5] -> [(9, 2), (7, 1), (5, 2)]
+        groups = sorted(Counter(diffs).items(), reverse=True)
+        groups.append((0, 0))  # sentinel: floor at height 0
 
-        # Feasible function: can we reduce all differences to at most 'target'
-        # using at most 'total_operations' operations?
-        def feasible(target):
-            operations_needed = sum(max(diff - target, 0) for diff in differences)
-            return operations_needed <= total_operations
+        group_count = 0  # elements currently in the "top group" being pushed down
 
-        # Binary search to find the minimum threshold using the template
-        left, right = 0, max_diff - 1
-        first_true_index = max_diff  # Default if no smaller threshold is feasible
+        for g in range(len(groups) - 1):
+            height, count = groups[g]
+            next_height = groups[g + 1][0]
 
-        while left <= right:
-            mid = (left + right) // 2
-            if feasible(mid):
-                first_true_index = mid
-                right = mid - 1  # Try to find smaller threshold
+            group_count += count               # merge this level's bars into the group
+            gap = height - next_height
+            cost_to_absorb = gap * group_count # ops to drop whole group to next_height
+
+            if budget >= cost_to_absorb:
+                # Whole group drops to next_height for free-ish; continue
+                budget -= cost_to_absorb
             else:
-                left = mid + 1
+                # Budget runs out mid-drop between `height` and `next_height`
+                full_drop = budget // group_count
+                extra_drop_count = budget % group_count
+                new_level = height - full_drop
 
-        optimal_threshold = first_true_index
+                # (group_count - extra_drop_count) elements at new_level
+                # extra_drop_count elements at new_level - 1
+                result = (
+                    (group_count - extra_drop_count) * new_level ** 2
+                    + extra_drop_count * (new_level - 1) ** 2
+                )
+                # Add squares of untouched groups below (excluding sentinel)
+                for h, c in groups[g + 1:-1]:
+                    result += c * h * h
+                return result
 
-        # Reduce all differences to at most the optimal threshold
-        for i, diff in enumerate(differences):
-            operations_used = max(0, diff - optimal_threshold)
-            differences[i] = min(optimal_threshold, diff)
-            total_operations -= operations_used
-
-        # Distribute remaining operations to further reduce values at the threshold
-        # We can only reduce values that are currently at the threshold level
-        for i, diff in enumerate(differences):
-            if total_operations == 0:
-                break
-            if diff == optimal_threshold:
-                total_operations -= 1
-                differences[i] -= 1
-
-        # Calculate and return the sum of squared differences
-        return sum(diff * diff for diff in differences)
+        return 0
