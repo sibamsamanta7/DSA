@@ -40,6 +40,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sibamsamanta7/DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/sibamsamanta7/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sibamsamanta7/DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/sibamsamanta7/DSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/sibamsamanta7/DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/sibamsamanta7/DSA/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Hash Table
@@ -76,6 +77,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sibamsamanta7/DSA/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sibamsamanta7/DSA/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sibamsamanta7/DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/sibamsamanta7/DSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +172,7 @@
 | [3871-count-commas-in-range-ii](https://github.com/sibamsamanta7/DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/sibamsamanta7/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sibamsamanta7/DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/sibamsamanta7/DSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -253,6 +256,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/sibamsamanta7/DSA/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sibamsamanta7/DSA/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sibamsamanta7/DSA/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
+| [3886-sum-of-sortable-integers](https://github.com/sibamsamanta7/DSA/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
