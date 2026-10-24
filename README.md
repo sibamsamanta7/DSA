@@ -101,6 +101,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sibamsamanta7/DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sibamsamanta7/DSA/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/sibamsamanta7/DSA/tree/main/1927-sum-game/) | Medium |
+| [2409-count-days-spent-together](https://github.com/sibamsamanta7/DSA/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sibamsamanta7/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sibamsamanta7/DSA/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/sibamsamanta7/DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -167,6 +168,7 @@
 | [1872-stone-game-viii](https://github.com/sibamsamanta7/DSA/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/sibamsamanta7/DSA/tree/main/1927-sum-game/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/sibamsamanta7/DSA/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [2409-count-days-spent-together](https://github.com/sibamsamanta7/DSA/tree/main/2409-count-days-spent-together/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/sibamsamanta7/DSA/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/sibamsamanta7/DSA/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/sibamsamanta7/DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
