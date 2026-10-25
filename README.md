@@ -12,6 +12,7 @@
 | [0238-product-of-array-except-self](https://github.com/sibamsamanta7/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/sibamsamanta7/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0835-image-overlap](https://github.com/sibamsamanta7/DSA/tree/main/0835-image-overlap/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/sibamsamanta7/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/sibamsamanta7/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sibamsamanta7/DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sibamsamanta7/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -213,11 +214,13 @@
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/sibamsamanta7/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0835-image-overlap](https://github.com/sibamsamanta7/DSA/tree/main/0835-image-overlap/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/sibamsamanta7/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sibamsamanta7/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sibamsamanta7/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/sibamsamanta7/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sibamsamanta7/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sibamsamanta7/DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Game Theory
@@ -282,6 +285,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/sibamsamanta7/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sibamsamanta7/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -328,6 +332,7 @@
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/sibamsamanta7/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/sibamsamanta7/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/sibamsamanta7/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
