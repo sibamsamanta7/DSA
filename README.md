@@ -37,6 +37,7 @@
 | [3525-find-x-value-of-array-ii](https://github.com/sibamsamanta7/DSA/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sibamsamanta7/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/sibamsamanta7/DSA/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sibamsamanta7/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sibamsamanta7/DSA/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sibamsamanta7/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sibamsamanta7/DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -216,6 +217,7 @@
 | [0835-image-overlap](https://github.com/sibamsamanta7/DSA/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/sibamsamanta7/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sibamsamanta7/DSA/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sibamsamanta7/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,6 +225,7 @@
 | [1254-number-of-closed-islands](https://github.com/sibamsamanta7/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sibamsamanta7/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sibamsamanta7/DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sibamsamanta7/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,6 +290,7 @@
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/sibamsamanta7/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sibamsamanta7/DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sibamsamanta7/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -333,6 +337,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/sibamsamanta7/DSA/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/sibamsamanta7/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/sibamsamanta7/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sibamsamanta7/DSA/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
