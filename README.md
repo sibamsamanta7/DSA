@@ -44,6 +44,7 @@
 | [3665-twisted-mirror-path-count](https://github.com/sibamsamanta7/DSA/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sibamsamanta7/DSA/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sibamsamanta7/DSA/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sibamsamanta7/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sibamsamanta7/DSA/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/sibamsamanta7/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sibamsamanta7/DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -191,6 +192,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sibamsamanta7/DSA/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sibamsamanta7/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sibamsamanta7/DSA/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sibamsamanta7/DSA/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/sibamsamanta7/DSA/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/sibamsamanta7/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sibamsamanta7/DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
