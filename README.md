@@ -15,6 +15,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sibamsamanta7/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0835-image-overlap](https://github.com/sibamsamanta7/DSA/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/sibamsamanta7/DSA/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sibamsamanta7/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/sibamsamanta7/DSA/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sibamsamanta7/DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/sibamsamanta7/DSA/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -84,6 +85,7 @@
 | [0347-top-k-frequent-elements](https://github.com/sibamsamanta7/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sibamsamanta7/DSA/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/sibamsamanta7/DSA/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sibamsamanta7/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sibamsamanta7/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sibamsamanta7/DSA/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sibamsamanta7/DSA/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -205,6 +207,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sibamsamanta7/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sibamsamanta7/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sibamsamanta7/DSA/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sibamsamanta7/DSA/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sibamsamanta7/DSA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -299,6 +302,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sibamsamanta7/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/sibamsamanta7/DSA/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/sibamsamanta7/DSA/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sibamsamanta7/DSA/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sibamsamanta7/DSA/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
